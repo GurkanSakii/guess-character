@@ -1,6 +1,6 @@
-# 🎭 Guess: The Character! – The Ultimate Social Guessing Game
+# 🎭 Guess Hero! – The Ultimate Social Guessing Game
 
-Play with friends, challenge the AI, or compete against world-wide rivals! **Guess: The Character!** brings the classic strategic guessing experience to your mobile device with a modern twist. With **25 + 25 unique characters** and a competitive online environment, it’s time to test your logic and intuition.
+Play with friends, challenge the AI, or compete against world-wide rivals! **Guess Hero!** brings the classic strategic guessing experience to your mobile device with a modern twist. With **25 + 25 unique characters** and a competitive online environment, it’s time to test your logic and intuition.
 
 ---
 
@@ -36,10 +36,10 @@ Play with friends, challenge the AI, or compete against world-wide rivals! **Gue
 
 ## 🛡 Privacy & Support
 
-We respect your privacy. For more details, please visit our [Privacy Policy](https://gurkansakii.github.io/guess-character-privacy-policy/).
+We respect your privacy. For more details, please visit our [Privacy Policy](https://gurkansakii.github.io/guess-hero-privacy-policy/).
 
 For any inquiries, suggestions, or support requests, feel free to reach out:
-📩 **Email:** [sakiigurkan@gmail.com](mailto:sakiigurkan@gmail.com)
+📩 **Email:** [guessherogameservices@gmail.com](mailto:guessherogameservices@gmail.com)
 
 ---
-© 2026 Guess: The Character! Team. All rights reserved.
+© 2026 Guess Hero! Team. All rights reserved.
